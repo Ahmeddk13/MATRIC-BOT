@@ -1,0 +1,35 @@
+{
+  "url": "https://web.facebook.com/permalink.php?story_fbid=122303809544234787&id=61557043617586",
+  "status": 200,
+  "decoded_data": [
+    {
+      "logo": "-1012026",
+      "title": "C",
+      "url": "https://whatsapp.com/channel/0029Va1fzwHDzgTEjspAsD3O"
+    },
+    {
+      "logo": "",
+      "title": "⚽ 𝗠𝗔𝗧𝗖𝗛𝗘𝗦",
+      "url": "https://web.facebook.com/61557043617586/posts/122099603552234787",
+      "fetch_error": "Decode failed: 'utf-8' codec can't decode byte 0x9f in position 5438: invalid start byte"
+    },
+    {
+      "logo": "",
+      "title": "📺 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦",
+      "url": "https://www.facebook.com/share/p/1AuNzBU5o1/",
+      "fetch_error": "Graph API failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v19.0/1AuNzBU5o1?access_token=EAAP8QyD3xK0BRDDcZBA9w25wkynS6Nfje1wQfquzIwHLVbJf0CqGzIDCJM2cY57fw4ZAd5VfASDfI61nNKzs6rjJeYYLHUiR0wq9QR4j8LLuWX8M6fkdwjeghZBC2k44Emymbfxfj4bzB8uaX2ps3HItn0jglORaPCkj1IGwsgopTED2EbygBKjZBhRHU831ZBnVVd5dv"
+    },
+    {
+      "logo": "",
+      "title": "🎬 𝗠𝗢𝗩𝗜𝗘𝗦",
+      "url": "https://www.facebook.com/share/p/1LUFz1ArsV/",
+      "fetch_error": "Graph API failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v19.0/1LUFz1ArsV?access_token=EAAP8QyD3xK0BRDDcZBA9w25wkynS6Nfje1wQfquzIwHLVbJf0CqGzIDCJM2cY57fw4ZAd5VfASDfI61nNKzs6rjJeYYLHUiR0wq9QR4j8LLuWX8M6fkdwjeghZBC2k44Emymbfxfj4bzB8uaX2ps3HItn0jglORaPCkj1IGwsgopTED2EbygBKjZBhRHU831ZBnVVd5dv"
+    },
+    {
+      "logo": "",
+      "title": "⭐ 𝗙𝗔𝗩𝗢𝗥𝗜𝗧𝗘𝗦",
+      "url": "https://www.facebook.com/share/p/18coLToU2w/",
+      "fetch_error": "Graph API failed: 400 Client Error: Bad Request for url: https://graph.facebook.com/v19.0/18coLToU2w?access_token=EAAP8QyD3xK0BRDDcZBA9w25wkynS6Nfje1wQfquzIwHLVbJf0CqGzIDCJM2cY57fw4ZAd5VfASDfI61nNKzs6rjJeYYLHUiR0wq9QR4j8LLuWX8M6fkdwjeghZBC2k44Emymbfxfj4bzB8uaX2ps3HItn0jglORaPCkj1IGwsgopTED2EbygBKjZBhRHU831ZBnVVd5dv"
+    }
+  ]
+}

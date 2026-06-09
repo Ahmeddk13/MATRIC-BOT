@@ -1,0 +1,27 @@
+{
+  "name": "johan",
+  "version": "1.0.0",
+  "description": "this is my script to cntroll stream program and recreate the stream keys for long time running",
+  "homepage": "https://github.com/bestwall2/JOhaN#readme",
+  "bugs": {
+    "url": "https://github.com/bestwall2/JOhaN/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestwall2/JOhaN.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^5.2.1",
+    "pm2": "^7.0.1"
+  }
+}
